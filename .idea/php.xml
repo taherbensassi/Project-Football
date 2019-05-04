@@ -105,5 +105,4 @@
       <path value="$PROJECT_DIR$/FootBundle/vendor/doctrine/migrations" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
